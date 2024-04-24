@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(39, 132, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.common {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+}
+
+.mainbody {
+    top: 40px;
+    right: 5px;
+    left: 115px;
+}
+
+.leftmenu {
+    top: 40px;
+    left: 5px;
+    width: 100px;
+    height: 939px;
+}
